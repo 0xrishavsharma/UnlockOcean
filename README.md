@@ -1,1 +1,1 @@
-# Unlock Ocean - A minimal decentralised clone of OpenSea
+# Unlock Ocean - A decentralised clone of OpenSea
