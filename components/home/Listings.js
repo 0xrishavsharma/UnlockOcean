@@ -13,7 +13,7 @@ const Listings = () => {
                 
             </div>
             <div className={style.mainListing}>
-                
+                These are the listing
             </div>
         </div>
     </div>
